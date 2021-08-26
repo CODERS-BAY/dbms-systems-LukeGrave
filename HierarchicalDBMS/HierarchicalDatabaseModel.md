@@ -12,7 +12,7 @@
 
   + it shows hierarchically structured data in a text-file
 
-![alt text](hierarchicalDBM.png "Hierarchical Database Model")
+![alt text](../hierarchicalDBM.png "Hierarchical Database Model")
 ======
 ## How a XML-File looks like:
 ![alt text](XMLstructure.png "XML Structure")
