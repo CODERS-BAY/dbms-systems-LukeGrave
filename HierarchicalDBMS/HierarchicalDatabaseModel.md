@@ -12,10 +12,10 @@
 
   + it shows hierarchically structured data in a text-file
 
-![alt text](../hierarchicalDBM.png "Hierarchical Database Model")
+![alt text](https://github.com/CODERS-BAY/dbms-systems-LukeGrave/blob/main/HierarchicalDBMS/hierarchicalDBM.PNG "Hierarchical Database Model")
 ======
 ## How a XML-File looks like:
-![alt text](XMLstructure.png "XML Structure")
+![alt text](https://github.com/CODERS-BAY/dbms-systems-LukeGrave/blob/main/HierarchicalDBMS/XMLstructure.PNG "XML Structure")
 ======
 ## Functionality
 + each entity set is part of one hierarchy
@@ -49,7 +49,7 @@
 ------
 ## examples of hierarchical data as relational tables
 
-> ![alt text](relation_employee_equipment.png "Employee uses Equipment") <br>
+> ![alt text](https://github.com/CODERS-BAY/dbms-systems-LukeGrave/blob/main/HierarchicalDBMS/relation_employee_equipment.PNG "Employee uses Equipment") <br>
 > An organization stores employee information. <br>
 > Each employee is provided with computer hardware. <br>
 > The equipment is only allowed to be used by its assigned employee.
@@ -61,7 +61,7 @@ Children point to their parents - each employee may possess several pieces of eq
 
 <br>
 
-> ![alt text](employee_reportsTo.png "Employee reports to Employee") <br>
+> ![alt text](https://github.com/CODERS-BAY/dbms-systems-LukeGrave/blob/main/HierarchicalDBMS/employee_reportsTo.PNG "Employee reports to Employee") <br>
 > Child is the same type as parent. <br>
 > The foreign Key "``ReportsTo``" refers to the unique "``EmpNo``" Data.
 
